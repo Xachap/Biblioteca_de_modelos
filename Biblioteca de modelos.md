@@ -1,3 +1,5 @@
+# Biblioteca de modelos
+
 Como resultado de la práctica de modelos supervisados realizada en el segundo trimestre, a continuación se muestra la documentación que habéis generado para los diferentes modelos elegidos. Los he clasificado en tres categorías diferentes.
 ## Modelos paramétricos y estadísticos
 
