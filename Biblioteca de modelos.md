@@ -19,8 +19,8 @@ Estos modelos asumen que los datos siguen una forma predeterminada (una línea o
 
 Estos modelos dividen el espacio de datos en regiones jerárquicas mediante reglas lógicas en lugar de funciones globales. Al ser no paramétricos y combinar múltiples estimadores, capturan relaciones complejas y no lineales con gran robustez frente a valores atípicos. Su frontera de decisión es escalonada y se adapta con total flexibilidad a la estructura intrínseca de los datos sin asumir distribuciones previas.
 
-- [Random Forest - Pablo Fernández]([cell_net_evaluacion_modelos/teorica/5ta_parte_PabloMorcillo.pdf at main · koalagordokbron/cell_net_evaluacion_modelos · GitHub](https://github.com/koalagordokbron/cell_net_evaluacion_modelos/blob/main/teorica/5ta_parte_PabloMorcillo.pdf))
-- [Random Forest - David Horcajada]([practica-comparacion-modelos/README.md at main · DavidHaRz/practica-comparacion-modelos · GitHub](https://github.com/DavidHaRz/practica-comparacion-modelos/blob/main/README.md)
+- [Random Forest - Pablo Fernández](https://github.com/koalagordokbron/cell_net_evaluacion_modelos/blob/main/teorica/5ta_parte_PabloMorcillo.pdf)
+- [Random Forest - David Horcajada](https://github.com/DavidHaRz/practica-comparacion-modelos/blob/main/README.md)
 - [Random Forest - Alejandro Meneses](https://github.com/MenesesAlejandro93/Random-Forest/blob/main/README.md)
 - [AdaBoost - Alejandro Simón](https://github.com/Alejandrosa0/AdaBoostClassifier/blob/main/README.md)
 - [Evaluación de modelos multiclase - Raúl Moreno](https://github.com/Ra7x/Evaluacion-de-modelos-/blob/main/evaluacion_modelos_multiclase.ipynb)
