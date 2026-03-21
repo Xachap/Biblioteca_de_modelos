@@ -25,6 +25,7 @@ Estos modelos dividen el espacio de datos en regiones jerárquicas mediante regl
 - [AdaBoost - Alejandro Simón](https://github.com/Alejandrosa0/AdaBoostClassifier/blob/main/README.md)
 - [Evaluación de modelos multiclase - Raúl Moreno](https://github.com/Ra7x/Evaluacion-de-modelos-/blob/main/evaluacion_modelos_multiclase.ipynb)
 - [Random Forest - Rossio Escalera](https://github.com/rossio-ai/RandomForest/blob/main/README.md)
+- [Random Forest - Héctor Morales](https://github.com/hmoralesm01/explicationRandonForestClassifier/blob/main/GuiaUsoRandomForestClassifier.md)
 
 ## Otras arquitecturas de ensemble y redes neuronales
 
